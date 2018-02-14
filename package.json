@@ -1,5 +1,5 @@
 {
-  "name": "@types/ionic-keyboard",
+  "name": "ionic-keyboard-types",
   "version": "0.0.1",
   "description": "TypeScript definitions for ionic-keyboard",
   "main": "",
